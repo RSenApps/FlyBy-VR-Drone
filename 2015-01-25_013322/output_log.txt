@@ -1,0 +1,162 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SimpleJson.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SimpleJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SocketIO.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SocketIO.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Common.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Common.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Core.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Protocol.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Protocol.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Proxy.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Proxy.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\WebSocket4Net.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\WebSocket4Net.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\System.dll (this message is harmless)
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Ryan\Documents\HackGenY;C:\Users\Ryan\Documents\HackGenY;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Ryan'
+OS-Version: 6.2.9200 () 0x300-0x1
+C:\Users\Ryan\Documents\HackGenY\hackgeny.exe:hackgeny.exe (00D40000), size: 12271616 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\HackGenY\hackgeny.exe', fileVersion: 4.6.1.51269
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77720000), size: 1470464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.17278
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (774E0000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17056
+C:\Windows\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (767F0000), size: 851968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion: 6.3.9600.17278
+C:\Windows\system32\apphelp.dll:apphelp.dll (71DE0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\apphelp.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (6FE90000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (76E80000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (771A0000), size: 1359872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.17344
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (71AC0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (77390000), size: 1097728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17042
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (76E30000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (76C30000), size: 491520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (765F0000), size: 1077248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.17246
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (75140000), size: 18575360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.17331
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (64F80000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (74980000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17078
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (76F80000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.17403
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (65230000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (76C00000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (71090000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17039
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (749E0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6EFE0000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (76530000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.16384
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (77170000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (76ED0000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17216
+C:\Windows\SYSTEM32\combase.dll:combase.dll (77020000), size: 1368064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (774A0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (64F20000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (6F330000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (748A0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17080
+C:\Windows\SYSTEM32\MSCTF.dll:MSCTF.dll (76CB0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (749B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (75120000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.16408
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (6FAD0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (77350000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (74880000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (75110000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (750B0000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17120
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll (746D0000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17238
+C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Mono\mono.dll'
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (77620000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72340000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74FF0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.16384
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (6FBE0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17031
+C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (6FAF0000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', fileVersion: 6.3.9600.17135
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (6FA70000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.3.9600.17238
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (64CA0000), size: 1765376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17041
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (64E50000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17201
+C:\Windows\SYSTEM32\dlumd11.dll:dlumd11.dll (6F1D0000), size: 1069056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dlumd11.dll', fileVersion: 9.18.7.4
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (749C0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 6.3.9600.17041
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (6F080000), size: 1343488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.16520
+C:\Windows\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (76A50000), size: 1757184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SETUPAPI.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (74D80000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\wtsapi32.dll:wtsapi32.dll (722B0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wtsapi32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\igd10iumd32.dll:igd10iumd32.dll (588B0000), size: 6983680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\igd10iumd32.dll', fileVersion: 10.18.10.3907
+C:\Windows\SYSTEM32\d3d10_1.dll:d3d10_1.dll (64F50000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10_1.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (74D90000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (6D1F0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ncrypt.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\d3d10_1core.dll:d3d10_1core.dll (64EC0000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10_1core.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (6D1C0000), size: 176128 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\NTASN1.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\igdusc32.dll:igdusc32.dll (6D510000), size: 8761344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\igdusc32.dll', fileVersion: 10.18.10.3907
+C:\Windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (60D00000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (6FD40000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (6FD30000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (647E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (64830000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (671A0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (6FD20000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (6FD10000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\dsound.dll:dsound.dll (59DE0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\clbcatq.dll:clbcatq.dll (76DB0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.16384
+C:\Windows\SYSTEM32\oleacc.dll:oleacc.dll (6F2E0000), size: 294912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\oleacc.dll', fileVersion: 7.2.9600.16384
+C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\LeapCSharp.dll:LeapCSharp.dll (6FCD0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\LeapCSharp.dll', fileVersion: 2.2.1.0
+C:\Windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (65280000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP120.dll', fileVersion: 12.0.21005.1
+C:\Windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (5A1F0000), size: 974848 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\Leap.dll:Leap.dll (59CC0000), size: 1155072 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\Leap.dll', fileVersion: 2.2.1.0
+C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\OculusPlugin.dll:OculusPlugin.dll (59C10000), size: 692224 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Plugins\OculusPlugin.dll'
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x59C12036) (OculusPlugin): (filename not available): (function-name not available) + 0x0
+(0x59C13012) (OculusPlugin): (filename not available): OVR_SetViewport + 0x122
+(0x59C130D3) (OculusPlugin): (filename not available): UnitySetGraphicsDevice + 0x43
+(0x00EC10E7) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x85107
+(0x00EC1255) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x85275
+(0x1003998E) (mono): (filename not available): mono_lookup_pinvoke_call + 0x156
+(0x10048437) (mono): (filename not available): mono_marshal_string_to_utf16 + 0x5598
+(0x100CF7DD) (mono): (filename not available): mono_inst_name + 0x1b7a3
+(0x100EED19) (mono): (filename not available): mono_set_defaults + 0xc68
+(0x100EFB66) (mono): (filename not available): mono_set_defaults + 0x1ab5
+(0x100F00C1) (mono): (filename not available): mono_set_defaults + 0x2010
+(0x100F028A) (mono): (filename not available): mono_set_defaults + 0x21d9
+(0x1005D7C3) (mono): (filename not available): mono_runtime_invoke + 0x51
+(0x00E552A8) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x192c8
+(0x00EF1C25) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xb5c45
+(0x00EF1DAE) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xb5dce
+(0x00EF1E1C) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xb5e3c
+(0x00E4546F) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x948f
+(0x00E47E82) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xbea2
+(0x00E479C3) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xb9e3
+(0x00F08957) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xcc977
+(0x00F08BE3) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xccc03
+(0x00F0AD63) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xced83
+(0x00ED0906) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x94926
+(0x00EC1453) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x85473
+(0x00EC25C9) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x865e9
+(0x00EC2774) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0x86794
+(0x00F360BE) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xfa0de
+(0x00F37B75) (hackgeny): (filename not available): Object::Transfer<StreamedBinaryWrite<0> > + 0xfbb95
+(0x011ACA78) (hackgeny): (filename not available): Behaviour::Transfer<RemapPPtrTransfer> + 0xb2d98
+(0x011E1970) (hackgeny): (filename not available): Behaviour::Transfer<RemapPPtrTransfer> + 0xe7c90
+(0x774F919F) (KERNEL32): (filename not available): BaseThreadInitThunk + 0xe
+(0x77770BBB) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x84
+(0x77770B91) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x5a
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

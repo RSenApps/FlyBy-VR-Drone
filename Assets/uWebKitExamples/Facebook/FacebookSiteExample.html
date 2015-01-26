@@ -1,0 +1,39 @@
+
+
+<html>
+<body>
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '138823316204078',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+
+        FB.getLoginStatus(function(response) {
+            
+            if (response.status === 'connected') {
+
+                UWK.sendMessage("fbAuthResponse", response.authResponse);
+
+            } else {
+
+                UWK.sendMessage("fbNotLoggedIn", {});
+                
+                var uri = encodeURI('http://uwk.uwebkit.com/examples/FacebookSiteExample.html');
+                window.location = encodeURI("https://www.facebook.com/dialog/oauth?client_id=138823316204078&scope=read_friendlists&display=popup&redirect_uri="+uri+"&response_type=token");
+            }
+        });
+
+       };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+</script>
+</body>
+</html>

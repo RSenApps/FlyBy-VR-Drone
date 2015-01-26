@@ -1,0 +1,47 @@
+<html> 
+<head>
+<title>Javascript Example</title>
+<style type="text/css">
+	body
+	{
+		background-color: transparent;
+	}
+	h1
+	{
+		color:black;
+		text-align:left;
+	}
+	p
+	{
+		font-family:"Times New Roman";
+		font-size:20px;
+	}
+</style>
+
+</head>
+
+<script type='text/javascript'>
+
+	messageCount = 0;
+
+	UWK.subscribe("ExampleMessage", function(msgName, json) {
+
+		document.getElementById('Messages').innerText = json.value;
+
+	});
+
+</script>
+
+<body>
+
+<h2><center>Bi-directional Javascript Messaging Example</center></h2>
+
+Send message from Javascript to Unity<br>
+<input type='button' value="Send JS Message" onclick='UWK.sendMessage("UnityMessage", { "messageCount": messageCount++})' /><br>
+
+Javascript message received from Unity<br>
+<textarea id='Messages'></textarea>
+
+</body>
+
+</html>

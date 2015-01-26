@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 463cfa5a0b7bd064ea2fec0c2b309ac6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BODY_Side InnerWall OuterFrontWall
+    100002: BODY_Side InnerWall OuterWall
+    100004: BODY_Side Interior Floor
+    100006: BODY_Side Interior FrontPanel
+    100008: BODY_Side Interior RIghtPanel
+    100010: BODY_Side Interior TopFrontPanel
+    100012: BODY_Side Interior TopLight
+    100014: BODY_Side OuterWall1 APillar
+    100016: BODY_Side OuterWall1 APillar APillar1
+    100018: BODY_Side OuterWall1 OuterFrontWall1
+    100020: BODY_Side OuterWall1 OuterWall2
+    100022: //RootNode
+    100024: Dial_Array Cylinder_15
+    100026: Dial_Array Cylinder_25
+    100028: Dial_Array Cylinder_3
+    100030: Dial_Array Cylinder_42
+    100032: Dial_Boole3 Base1
+    100034: Dial_Boole3 Cylinder4
+    100036: Dial_DialLight Face
+    100038: Dial_DialLight FaceDelete
+    100040: Dial_R1_Array1 Cylinder_17
+    100042: Dial_R1_Array1 Cylinder_2
+    100044: Dial_R1_Array1 Cylinder_31
+    100046: Dial_R1_Array1 Cylinder_44
+    100048: Dial_R1_Boole Base7
+    100050: Dial_R1_Boole Cylinder2
+    100052: Dial_R1_DialLight2 Face4
+    100054: Dial_R1_DialLight2 FaceDelete4
+    100056: DialSMALL1_1_Array3 Cylinder_11
+    100058: DialSMALL1_1_Array3 Cylinder_21
+    100060: DialSMALL1_1_Array3 Cylinder_32
+    100062: DialSMALL1_1_Array3 Cylinder_4
+    100064: DialSMALL1_1_Boole5 Base4
+    100066: DialSMALL1_1_DialLight4 Face3
+    100068: DialSMALL1_1_DialLight4 FaceDelete3
+    100070: DialSMALL1_2_Array2 Cylinder_14
+    100072: DialSMALL1_2_Array2 Cylinder_23
+    100074: DialSMALL1_2_Array2 Cylinder_33
+    100076: DialSMALL1_2_Array2 Cylinder_41
+    100078: DialSMALL1_2_Boole2 Base6
+    100080: DialSMALL1_2_DialLight1 Face1
+    100082: DialSMALL1_2_DialLight1 FaceDelete2
+    100084: DialSMALL1_Array4 Cylinder_13
+    100086: DialSMALL1_Array4 Cylinder_27
+    100088: DialSMALL1_Array4 Cylinder_34
+    100090: DialSMALL1_Array4 Cylinder_43
+    100092: DialSMALL1_Boole4 Base5
+    100094: DialSMALL1_DialLight3 Face2
+    100096: DialSMALL1_DialLight3 FaceDelete1
+    100098: KnobsL_1_Knob_1
+    100100: KnobsL_1_Knob_1 Cap_16
+    100102: KnobsL_1_Knob_1 Rounding
+    100104: KnobsL_1_Knob_1 Rounding Cap_23
+    100106: KnobsL_1_Knob_2
+    100108: KnobsL_1_Knob_2 Cap_14
+    100110: KnobsL_1_Knob_2 Rounding1
+    100112: KnobsL_1_Knob_2 Rounding1 Cap_25
+    100114: KnobsL_1_Knob_2_11
+    100116: KnobsL_1_Knob_2_11 Cap_13
+    100118: KnobsL_1_Knob_2_11 Rounding2
+    100120: KnobsL_1_Knob_2_11 Rounding2 Cap_24
+    100122: KnobsL_Knob_11
+    100124: KnobsL_Knob_11 Cap_15
+    100126: KnobsL_Knob_11 Rounding3
+    100128: KnobsL_Knob_11 Rounding3 Cap_22
+    100130: KnobsL_Knob_21
+    100132: KnobsL_Knob_21 Cap_1
+    100134: KnobsL_Knob_21 Rounding4
+    100136: KnobsL_Knob_21 Rounding4 Cap_26
+    100138: KnobsL_Knob_2_1
+    100140: KnobsL_Knob_2_1 Cap_11
+    100142: KnobsL_Knob_2_1 Rounding5
+    100144: KnobsL_Knob_2_1 Rounding5 Cap_2
+    100146: KnobsL_Knob_2_2
+    100148: KnobsL_Knob_2_2 Cap_12
+    100150: KnobsL_Knob_2_2 Rounding6
+    100152: KnobsL_Knob_2_2 Rounding6 Cap_21
+    100154: ModRight1_Frame
+    100156: PanelLB
+    100158: PanelLT
+    100160: ScreenLeft_Boole1 Frame1
+    100162: ScreenLeft_Boole1 Screen_Sink
+    100164: ScreenLeft_Screen
+    100166: ScreenLeft_Screen_1
+    100168: Slider_1_Throttle
+    100170: Slider_1_ThrottleBody
+    100172: Slider_1_ThrottlePanelSlider
+    100174: Slider_1_ThrottlePanelSlider_1
+    100176: Slider_2_Throttle2
+    100178: Slider_2_ThrottleBody2
+    100180: Slider_2_ThrottlePanelSlider2
+    100182: Slider_2_ThrottlePanelSlider_12
+    100184: Slider_3_Throttle1
+    100186: Slider_3_ThrottleBody1
+    100188: Slider_3_ThrottlePanelSlider1
+    100190: Slider_3_ThrottlePanelSlider_11
+    100192: SliderPanel_ThrottlePanel
+    100194: SliderPanel_ThrottlePanelDelete
+    100196: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1
+    100198: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1 ThrottlePanelDelete2
+    100200: Switches_Switch1
+    100202: Switches_Switch1_1
+    100204: Switches_Switch1_2
+    100206: Switches_Switch1_3
+    100208: Switchipoos_1_Base
+    100210: Switchipoos_1_Cylinder3
+    100212: Switchipoos_1_Cylinder_1
+    100214: Switchipoos_1_Cylinder_26
+    100216: Switchipoos_2_Base2
+    100218: Switchipoos_2_Cylinder
+    100220: Switchipoos_2_Cylinder_12
+    100222: Switchipoos_2_Cylinder_22
+    100224: Switchipoos_Base3
+    100226: Switchipoos_Cylinder7
+    100228: Switchipoos_Cylinder_16
+    100230: Switchipoos_Cylinder_24
+    100232: Toe
+    100234: UR_Switch_SwitchLT
+    100236: UR_Switch_SwitchPanel
+    100238: UR_Switch_SwitchPanel_1
+    400000: BODY_Side InnerWall OuterFrontWall
+    400002: BODY_Side InnerWall OuterWall
+    400004: BODY_Side Interior Floor
+    400006: BODY_Side Interior FrontPanel
+    400008: BODY_Side Interior RIghtPanel
+    400010: BODY_Side Interior TopFrontPanel
+    400012: BODY_Side Interior TopLight
+    400014: BODY_Side OuterWall1 APillar
+    400016: BODY_Side OuterWall1 APillar APillar1
+    400018: BODY_Side OuterWall1 OuterFrontWall1
+    400020: BODY_Side OuterWall1 OuterWall2
+    400022: //RootNode
+    400024: Dial_Array Cylinder_15
+    400026: Dial_Array Cylinder_25
+    400028: Dial_Array Cylinder_3
+    400030: Dial_Array Cylinder_42
+    400032: Dial_Boole3 Base1
+    400034: Dial_Boole3 Cylinder4
+    400036: Dial_DialLight Face
+    400038: Dial_DialLight FaceDelete
+    400040: Dial_R1_Array1 Cylinder_17
+    400042: Dial_R1_Array1 Cylinder_2
+    400044: Dial_R1_Array1 Cylinder_31
+    400046: Dial_R1_Array1 Cylinder_44
+    400048: Dial_R1_Boole Base7
+    400050: Dial_R1_Boole Cylinder2
+    400052: Dial_R1_DialLight2 Face4
+    400054: Dial_R1_DialLight2 FaceDelete4
+    400056: DialSMALL1_1_Array3 Cylinder_11
+    400058: DialSMALL1_1_Array3 Cylinder_21
+    400060: DialSMALL1_1_Array3 Cylinder_32
+    400062: DialSMALL1_1_Array3 Cylinder_4
+    400064: DialSMALL1_1_Boole5 Base4
+    400066: DialSMALL1_1_DialLight4 Face3
+    400068: DialSMALL1_1_DialLight4 FaceDelete3
+    400070: DialSMALL1_2_Array2 Cylinder_14
+    400072: DialSMALL1_2_Array2 Cylinder_23
+    400074: DialSMALL1_2_Array2 Cylinder_33
+    400076: DialSMALL1_2_Array2 Cylinder_41
+    400078: DialSMALL1_2_Boole2 Base6
+    400080: DialSMALL1_2_DialLight1 Face1
+    400082: DialSMALL1_2_DialLight1 FaceDelete2
+    400084: DialSMALL1_Array4 Cylinder_13
+    400086: DialSMALL1_Array4 Cylinder_27
+    400088: DialSMALL1_Array4 Cylinder_34
+    400090: DialSMALL1_Array4 Cylinder_43
+    400092: DialSMALL1_Boole4 Base5
+    400094: DialSMALL1_DialLight3 Face2
+    400096: DialSMALL1_DialLight3 FaceDelete1
+    400098: KnobsL_1_Knob_1
+    400100: KnobsL_1_Knob_1 Cap_16
+    400102: KnobsL_1_Knob_1 Rounding
+    400104: KnobsL_1_Knob_1 Rounding Cap_23
+    400106: KnobsL_1_Knob_2
+    400108: KnobsL_1_Knob_2 Cap_14
+    400110: KnobsL_1_Knob_2 Rounding1
+    400112: KnobsL_1_Knob_2 Rounding1 Cap_25
+    400114: KnobsL_1_Knob_2_11
+    400116: KnobsL_1_Knob_2_11 Cap_13
+    400118: KnobsL_1_Knob_2_11 Rounding2
+    400120: KnobsL_1_Knob_2_11 Rounding2 Cap_24
+    400122: KnobsL_Knob_11
+    400124: KnobsL_Knob_11 Cap_15
+    400126: KnobsL_Knob_11 Rounding3
+    400128: KnobsL_Knob_11 Rounding3 Cap_22
+    400130: KnobsL_Knob_21
+    400132: KnobsL_Knob_21 Cap_1
+    400134: KnobsL_Knob_21 Rounding4
+    400136: KnobsL_Knob_21 Rounding4 Cap_26
+    400138: KnobsL_Knob_2_1
+    400140: KnobsL_Knob_2_1 Cap_11
+    400142: KnobsL_Knob_2_1 Rounding5
+    400144: KnobsL_Knob_2_1 Rounding5 Cap_2
+    400146: KnobsL_Knob_2_2
+    400148: KnobsL_Knob_2_2 Cap_12
+    400150: KnobsL_Knob_2_2 Rounding6
+    400152: KnobsL_Knob_2_2 Rounding6 Cap_21
+    400154: ModRight1_Frame
+    400156: PanelLB
+    400158: PanelLT
+    400160: ScreenLeft_Boole1 Frame1
+    400162: ScreenLeft_Boole1 Screen_Sink
+    400164: ScreenLeft_Screen
+    400166: ScreenLeft_Screen_1
+    400168: Slider_1_Throttle
+    400170: Slider_1_ThrottleBody
+    400172: Slider_1_ThrottlePanelSlider
+    400174: Slider_1_ThrottlePanelSlider_1
+    400176: Slider_2_Throttle2
+    400178: Slider_2_ThrottleBody2
+    400180: Slider_2_ThrottlePanelSlider2
+    400182: Slider_2_ThrottlePanelSlider_12
+    400184: Slider_3_Throttle1
+    400186: Slider_3_ThrottleBody1
+    400188: Slider_3_ThrottlePanelSlider1
+    400190: Slider_3_ThrottlePanelSlider_11
+    400192: SliderPanel_ThrottlePanel
+    400194: SliderPanel_ThrottlePanelDelete
+    400196: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1
+    400198: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1 ThrottlePanelDelete2
+    400200: Switches_Switch1
+    400202: Switches_Switch1_1
+    400204: Switches_Switch1_2
+    400206: Switches_Switch1_3
+    400208: Switchipoos_1_Base
+    400210: Switchipoos_1_Cylinder3
+    400212: Switchipoos_1_Cylinder_1
+    400214: Switchipoos_1_Cylinder_26
+    400216: Switchipoos_2_Base2
+    400218: Switchipoos_2_Cylinder
+    400220: Switchipoos_2_Cylinder_12
+    400222: Switchipoos_2_Cylinder_22
+    400224: Switchipoos_Base3
+    400226: Switchipoos_Cylinder7
+    400228: Switchipoos_Cylinder_16
+    400230: Switchipoos_Cylinder_24
+    400232: Toe
+    400234: UR_Switch_SwitchLT
+    400236: UR_Switch_SwitchPanel
+    400238: UR_Switch_SwitchPanel_1
+    2300000: BODY_Side InnerWall OuterFrontWall
+    2300002: BODY_Side InnerWall OuterWall
+    2300004: BODY_Side Interior Floor
+    2300006: BODY_Side Interior FrontPanel
+    2300008: BODY_Side Interior RIghtPanel
+    2300010: BODY_Side Interior TopFrontPanel
+    2300012: BODY_Side Interior TopLight
+    2300014: BODY_Side OuterWall1 APillar
+    2300016: BODY_Side OuterWall1 APillar APillar1
+    2300018: BODY_Side OuterWall1 OuterFrontWall1
+    2300020: BODY_Side OuterWall1 OuterWall2
+    2300022: Dial_Array Cylinder_15
+    2300024: Dial_Array Cylinder_25
+    2300026: Dial_Array Cylinder_3
+    2300028: Dial_Array Cylinder_42
+    2300030: Dial_Boole3 Base1
+    2300032: Dial_Boole3 Cylinder4
+    2300034: Dial_DialLight Face
+    2300036: Dial_DialLight FaceDelete
+    2300038: Dial_R1_Array1 Cylinder_17
+    2300040: Dial_R1_Array1 Cylinder_2
+    2300042: Dial_R1_Array1 Cylinder_31
+    2300044: Dial_R1_Array1 Cylinder_44
+    2300046: Dial_R1_Boole Base7
+    2300048: Dial_R1_Boole Cylinder2
+    2300050: Dial_R1_DialLight2 Face4
+    2300052: Dial_R1_DialLight2 FaceDelete4
+    2300054: DialSMALL1_1_Array3 Cylinder_11
+    2300056: DialSMALL1_1_Array3 Cylinder_21
+    2300058: DialSMALL1_1_Array3 Cylinder_32
+    2300060: DialSMALL1_1_Array3 Cylinder_4
+    2300062: DialSMALL1_1_Boole5 Base4
+    2300064: DialSMALL1_1_DialLight4 Face3
+    2300066: DialSMALL1_1_DialLight4 FaceDelete3
+    2300068: DialSMALL1_2_Array2 Cylinder_14
+    2300070: DialSMALL1_2_Array2 Cylinder_23
+    2300072: DialSMALL1_2_Array2 Cylinder_33
+    2300074: DialSMALL1_2_Array2 Cylinder_41
+    2300076: DialSMALL1_2_Boole2 Base6
+    2300078: DialSMALL1_2_DialLight1 Face1
+    2300080: DialSMALL1_2_DialLight1 FaceDelete2
+    2300082: DialSMALL1_Array4 Cylinder_13
+    2300084: DialSMALL1_Array4 Cylinder_27
+    2300086: DialSMALL1_Array4 Cylinder_34
+    2300088: DialSMALL1_Array4 Cylinder_43
+    2300090: DialSMALL1_Boole4 Base5
+    2300092: DialSMALL1_DialLight3 Face2
+    2300094: DialSMALL1_DialLight3 FaceDelete1
+    2300096: KnobsL_1_Knob_1
+    2300098: KnobsL_1_Knob_1 Cap_16
+    2300100: KnobsL_1_Knob_1 Rounding
+    2300102: KnobsL_1_Knob_1 Rounding Cap_23
+    2300104: KnobsL_1_Knob_2
+    2300106: KnobsL_1_Knob_2 Cap_14
+    2300108: KnobsL_1_Knob_2 Rounding1
+    2300110: KnobsL_1_Knob_2 Rounding1 Cap_25
+    2300112: KnobsL_1_Knob_2_11
+    2300114: KnobsL_1_Knob_2_11 Cap_13
+    2300116: KnobsL_1_Knob_2_11 Rounding2
+    2300118: KnobsL_1_Knob_2_11 Rounding2 Cap_24
+    2300120: KnobsL_Knob_11
+    2300122: KnobsL_Knob_11 Cap_15
+    2300124: KnobsL_Knob_11 Rounding3
+    2300126: KnobsL_Knob_11 Rounding3 Cap_22
+    2300128: KnobsL_Knob_21
+    2300130: KnobsL_Knob_21 Cap_1
+    2300132: KnobsL_Knob_21 Rounding4
+    2300134: KnobsL_Knob_21 Rounding4 Cap_26
+    2300136: KnobsL_Knob_2_1
+    2300138: KnobsL_Knob_2_1 Cap_11
+    2300140: KnobsL_Knob_2_1 Rounding5
+    2300142: KnobsL_Knob_2_1 Rounding5 Cap_2
+    2300144: KnobsL_Knob_2_2
+    2300146: KnobsL_Knob_2_2 Cap_12
+    2300148: KnobsL_Knob_2_2 Rounding6
+    2300150: KnobsL_Knob_2_2 Rounding6 Cap_21
+    2300152: ModRight1_Frame
+    2300154: PanelLB
+    2300156: PanelLT
+    2300158: ScreenLeft_Boole1 Frame1
+    2300160: ScreenLeft_Boole1 Screen_Sink
+    2300162: ScreenLeft_Screen
+    2300164: ScreenLeft_Screen_1
+    2300166: Slider_1_Throttle
+    2300168: Slider_1_ThrottleBody
+    2300170: Slider_1_ThrottlePanelSlider
+    2300172: Slider_1_ThrottlePanelSlider_1
+    2300174: Slider_2_Throttle2
+    2300176: Slider_2_ThrottleBody2
+    2300178: Slider_2_ThrottlePanelSlider2
+    2300180: Slider_2_ThrottlePanelSlider_12
+    2300182: Slider_3_Throttle1
+    2300184: Slider_3_ThrottleBody1
+    2300186: Slider_3_ThrottlePanelSlider1
+    2300188: Slider_3_ThrottlePanelSlider_11
+    2300190: SliderPanel_ThrottlePanel
+    2300192: SliderPanel_ThrottlePanelDelete
+    2300194: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1
+    2300196: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1 ThrottlePanelDelete2
+    2300198: Switches_Switch1
+    2300200: Switches_Switch1_1
+    2300202: Switches_Switch1_2
+    2300204: Switches_Switch1_3
+    2300206: Switchipoos_1_Base
+    2300208: Switchipoos_1_Cylinder3
+    2300210: Switchipoos_1_Cylinder_1
+    2300212: Switchipoos_1_Cylinder_26
+    2300214: Switchipoos_2_Base2
+    2300216: Switchipoos_2_Cylinder
+    2300218: Switchipoos_2_Cylinder_12
+    2300220: Switchipoos_2_Cylinder_22
+    2300222: Switchipoos_Base3
+    2300224: Switchipoos_Cylinder7
+    2300226: Switchipoos_Cylinder_16
+    2300228: Switchipoos_Cylinder_24
+    2300230: Toe
+    2300232: UR_Switch_SwitchLT
+    2300234: UR_Switch_SwitchPanel
+    2300236: UR_Switch_SwitchPanel_1
+    3300000: BODY_Side InnerWall OuterFrontWall
+    3300002: BODY_Side InnerWall OuterWall
+    3300004: BODY_Side Interior Floor
+    3300006: BODY_Side Interior FrontPanel
+    3300008: BODY_Side Interior RIghtPanel
+    3300010: BODY_Side Interior TopFrontPanel
+    3300012: BODY_Side Interior TopLight
+    3300014: BODY_Side OuterWall1 APillar
+    3300016: BODY_Side OuterWall1 APillar APillar1
+    3300018: BODY_Side OuterWall1 OuterFrontWall1
+    3300020: BODY_Side OuterWall1 OuterWall2
+    3300022: Dial_Array Cylinder_15
+    3300024: Dial_Array Cylinder_25
+    3300026: Dial_Array Cylinder_3
+    3300028: Dial_Array Cylinder_42
+    3300030: Dial_Boole3 Base1
+    3300032: Dial_Boole3 Cylinder4
+    3300034: Dial_DialLight Face
+    3300036: Dial_DialLight FaceDelete
+    3300038: Dial_R1_Array1 Cylinder_17
+    3300040: Dial_R1_Array1 Cylinder_2
+    3300042: Dial_R1_Array1 Cylinder_31
+    3300044: Dial_R1_Array1 Cylinder_44
+    3300046: Dial_R1_Boole Base7
+    3300048: Dial_R1_Boole Cylinder2
+    3300050: Dial_R1_DialLight2 Face4
+    3300052: Dial_R1_DialLight2 FaceDelete4
+    3300054: DialSMALL1_1_Array3 Cylinder_11
+    3300056: DialSMALL1_1_Array3 Cylinder_21
+    3300058: DialSMALL1_1_Array3 Cylinder_32
+    3300060: DialSMALL1_1_Array3 Cylinder_4
+    3300062: DialSMALL1_1_Boole5 Base4
+    3300064: DialSMALL1_1_DialLight4 Face3
+    3300066: DialSMALL1_1_DialLight4 FaceDelete3
+    3300068: DialSMALL1_2_Array2 Cylinder_14
+    3300070: DialSMALL1_2_Array2 Cylinder_23
+    3300072: DialSMALL1_2_Array2 Cylinder_33
+    3300074: DialSMALL1_2_Array2 Cylinder_41
+    3300076: DialSMALL1_2_Boole2 Base6
+    3300078: DialSMALL1_2_DialLight1 Face1
+    3300080: DialSMALL1_2_DialLight1 FaceDelete2
+    3300082: DialSMALL1_Array4 Cylinder_13
+    3300084: DialSMALL1_Array4 Cylinder_27
+    3300086: DialSMALL1_Array4 Cylinder_34
+    3300088: DialSMALL1_Array4 Cylinder_43
+    3300090: DialSMALL1_Boole4 Base5
+    3300092: DialSMALL1_DialLight3 Face2
+    3300094: DialSMALL1_DialLight3 FaceDelete1
+    3300096: KnobsL_1_Knob_1
+    3300098: KnobsL_1_Knob_1 Cap_16
+    3300100: KnobsL_1_Knob_1 Rounding
+    3300102: KnobsL_1_Knob_1 Rounding Cap_23
+    3300104: KnobsL_1_Knob_2
+    3300106: KnobsL_1_Knob_2 Cap_14
+    3300108: KnobsL_1_Knob_2 Rounding1
+    3300110: KnobsL_1_Knob_2 Rounding1 Cap_25
+    3300112: KnobsL_1_Knob_2_11
+    3300114: KnobsL_1_Knob_2_11 Cap_13
+    3300116: KnobsL_1_Knob_2_11 Rounding2
+    3300118: KnobsL_1_Knob_2_11 Rounding2 Cap_24
+    3300120: KnobsL_Knob_11
+    3300122: KnobsL_Knob_11 Cap_15
+    3300124: KnobsL_Knob_11 Rounding3
+    3300126: KnobsL_Knob_11 Rounding3 Cap_22
+    3300128: KnobsL_Knob_21
+    3300130: KnobsL_Knob_21 Cap_1
+    3300132: KnobsL_Knob_21 Rounding4
+    3300134: KnobsL_Knob_21 Rounding4 Cap_26
+    3300136: KnobsL_Knob_2_1
+    3300138: KnobsL_Knob_2_1 Cap_11
+    3300140: KnobsL_Knob_2_1 Rounding5
+    3300142: KnobsL_Knob_2_1 Rounding5 Cap_2
+    3300144: KnobsL_Knob_2_2
+    3300146: KnobsL_Knob_2_2 Cap_12
+    3300148: KnobsL_Knob_2_2 Rounding6
+    3300150: KnobsL_Knob_2_2 Rounding6 Cap_21
+    3300152: ModRight1_Frame
+    3300154: PanelLB
+    3300156: PanelLT
+    3300158: ScreenLeft_Boole1 Frame1
+    3300160: ScreenLeft_Boole1 Screen_Sink
+    3300162: ScreenLeft_Screen
+    3300164: ScreenLeft_Screen_1
+    3300166: Slider_1_Throttle
+    3300168: Slider_1_ThrottleBody
+    3300170: Slider_1_ThrottlePanelSlider
+    3300172: Slider_1_ThrottlePanelSlider_1
+    3300174: Slider_2_Throttle2
+    3300176: Slider_2_ThrottleBody2
+    3300178: Slider_2_ThrottlePanelSlider2
+    3300180: Slider_2_ThrottlePanelSlider_12
+    3300182: Slider_3_Throttle1
+    3300184: Slider_3_ThrottleBody1
+    3300186: Slider_3_ThrottlePanelSlider1
+    3300188: Slider_3_ThrottlePanelSlider_11
+    3300190: SliderPanel_ThrottlePanel
+    3300192: SliderPanel_ThrottlePanelDelete
+    3300194: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1
+    3300196: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1 ThrottlePanelDelete2
+    3300198: Switches_Switch1
+    3300200: Switches_Switch1_1
+    3300202: Switches_Switch1_2
+    3300204: Switches_Switch1_3
+    3300206: Switchipoos_1_Base
+    3300208: Switchipoos_1_Cylinder3
+    3300210: Switchipoos_1_Cylinder_1
+    3300212: Switchipoos_1_Cylinder_26
+    3300214: Switchipoos_2_Base2
+    3300216: Switchipoos_2_Cylinder
+    3300218: Switchipoos_2_Cylinder_12
+    3300220: Switchipoos_2_Cylinder_22
+    3300222: Switchipoos_Base3
+    3300224: Switchipoos_Cylinder7
+    3300226: Switchipoos_Cylinder_16
+    3300228: Switchipoos_Cylinder_24
+    3300230: Toe
+    3300232: UR_Switch_SwitchLT
+    3300234: UR_Switch_SwitchPanel
+    3300236: UR_Switch_SwitchPanel_1
+    4300000: BODY_Side InnerWall OuterFrontWall
+    4300002: BODY_Side InnerWall OuterWall
+    4300004: BODY_Side Interior Floor
+    4300006: BODY_Side Interior FrontPanel
+    4300008: BODY_Side Interior RIghtPanel
+    4300010: BODY_Side Interior TopFrontPanel
+    4300012: BODY_Side Interior TopLight
+    4300014: BODY_Side OuterWall1 APillar
+    4300016: BODY_Side OuterWall1 APillar APillar1
+    4300018: BODY_Side OuterWall1 OuterFrontWall1
+    4300020: BODY_Side OuterWall1 OuterWall2
+    4300022: Dial_Array Cylinder_15
+    4300024: Dial_Array Cylinder_25
+    4300026: Dial_Array Cylinder_3
+    4300028: Dial_Array Cylinder_42
+    4300030: Dial_Boole3 Base1
+    4300032: Dial_Boole3 Cylinder4
+    4300034: Dial_DialLight Face
+    4300036: Dial_DialLight FaceDelete
+    4300038: Dial_R1_Array1 Cylinder_17
+    4300040: Dial_R1_Array1 Cylinder_2
+    4300042: Dial_R1_Array1 Cylinder_31
+    4300044: Dial_R1_Array1 Cylinder_44
+    4300046: Dial_R1_Boole Base7
+    4300048: Dial_R1_Boole Cylinder2
+    4300050: Dial_R1_DialLight2 Face4
+    4300052: Dial_R1_DialLight2 FaceDelete4
+    4300054: DialSMALL1_1_Array3 Cylinder_11
+    4300056: DialSMALL1_1_Array3 Cylinder_21
+    4300058: DialSMALL1_1_Array3 Cylinder_32
+    4300060: DialSMALL1_1_Array3 Cylinder_4
+    4300062: DialSMALL1_1_Boole5 Base4
+    4300064: DialSMALL1_1_DialLight4 Face3
+    4300066: DialSMALL1_1_DialLight4 FaceDelete3
+    4300068: DialSMALL1_2_Array2 Cylinder_14
+    4300070: DialSMALL1_2_Array2 Cylinder_23
+    4300072: DialSMALL1_2_Array2 Cylinder_33
+    4300074: DialSMALL1_2_Array2 Cylinder_41
+    4300076: DialSMALL1_2_Boole2 Base6
+    4300078: DialSMALL1_2_DialLight1 Face1
+    4300080: DialSMALL1_2_DialLight1 FaceDelete2
+    4300082: DialSMALL1_Array4 Cylinder_13
+    4300084: DialSMALL1_Array4 Cylinder_27
+    4300086: DialSMALL1_Array4 Cylinder_34
+    4300088: DialSMALL1_Array4 Cylinder_43
+    4300090: DialSMALL1_Boole4 Base5
+    4300092: DialSMALL1_DialLight3 Face2
+    4300094: DialSMALL1_DialLight3 FaceDelete1
+    4300096: KnobsL_1_Knob_1
+    4300098: KnobsL_1_Knob_1 Cap_16
+    4300100: KnobsL_1_Knob_1 Rounding
+    4300102: KnobsL_1_Knob_1 Rounding Cap_23
+    4300104: KnobsL_1_Knob_2
+    4300106: KnobsL_1_Knob_2 Cap_14
+    4300108: KnobsL_1_Knob_2 Rounding1
+    4300110: KnobsL_1_Knob_2 Rounding1 Cap_25
+    4300112: KnobsL_1_Knob_2_11
+    4300114: KnobsL_1_Knob_2_11 Cap_13
+    4300116: KnobsL_1_Knob_2_11 Rounding2
+    4300118: KnobsL_1_Knob_2_11 Rounding2 Cap_24
+    4300120: KnobsL_Knob_11
+    4300122: KnobsL_Knob_11 Cap_15
+    4300124: KnobsL_Knob_11 Rounding3
+    4300126: KnobsL_Knob_11 Rounding3 Cap_22
+    4300128: KnobsL_Knob_21
+    4300130: KnobsL_Knob_21 Cap_1
+    4300132: KnobsL_Knob_21 Rounding4
+    4300134: KnobsL_Knob_21 Rounding4 Cap_26
+    4300136: KnobsL_Knob_2_1
+    4300138: KnobsL_Knob_2_1 Cap_11
+    4300140: KnobsL_Knob_2_1 Rounding5
+    4300142: KnobsL_Knob_2_1 Rounding5 Cap_2
+    4300144: KnobsL_Knob_2_2
+    4300146: KnobsL_Knob_2_2 Cap_12
+    4300148: KnobsL_Knob_2_2 Rounding6
+    4300150: KnobsL_Knob_2_2 Rounding6 Cap_21
+    4300152: ModRight1_Frame
+    4300154: PanelLB
+    4300156: PanelLT
+    4300158: ScreenLeft_Boole1 Frame1
+    4300160: ScreenLeft_Boole1 Screen_Sink
+    4300162: ScreenLeft_Screen
+    4300164: ScreenLeft_Screen_1
+    4300166: Slider_1_Throttle
+    4300168: Slider_1_ThrottleBody
+    4300170: Slider_1_ThrottlePanelSlider
+    4300172: Slider_1_ThrottlePanelSlider_1
+    4300174: Slider_2_Throttle2
+    4300176: Slider_2_ThrottleBody2
+    4300178: Slider_2_ThrottlePanelSlider2
+    4300180: Slider_2_ThrottlePanelSlider_12
+    4300182: Slider_3_Throttle1
+    4300184: Slider_3_ThrottleBody1
+    4300186: Slider_3_ThrottlePanelSlider1
+    4300188: Slider_3_ThrottlePanelSlider_11
+    4300190: SliderPanel_ThrottlePanel
+    4300192: SliderPanel_ThrottlePanelDelete
+    4300194: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1
+    4300196: SliderPanel_ThrottlePanelDelete ThrottlePanelDelete1 ThrottlePanelDelete2
+    4300198: Switches_Switch1
+    4300200: Switches_Switch1_1
+    4300202: Switches_Switch1_2
+    4300204: Switches_Switch1_3
+    4300206: Switchipoos_1_Base
+    4300208: Switchipoos_1_Cylinder3
+    4300210: Switchipoos_1_Cylinder_1
+    4300212: Switchipoos_1_Cylinder_26
+    4300214: Switchipoos_2_Base2
+    4300216: Switchipoos_2_Cylinder
+    4300218: Switchipoos_2_Cylinder_12
+    4300220: Switchipoos_2_Cylinder_22
+    4300222: Switchipoos_Base3
+    4300224: Switchipoos_Cylinder7
+    4300226: Switchipoos_Cylinder_16
+    4300228: Switchipoos_Cylinder_24
+    4300230: Toe
+    4300232: UR_Switch_SwitchLT
+    4300234: UR_Switch_SwitchPanel
+    4300236: UR_Switch_SwitchPanel_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

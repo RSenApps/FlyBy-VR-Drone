@@ -1,0 +1,58 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SimpleJson.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SimpleJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SocketIO.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SocketIO.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Common.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Common.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Core.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Protocol.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Protocol.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Proxy.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\SuperSocket.ClientEngine.Proxy.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\WebSocket4Net.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\WebSocket4Net.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Documents\HackGenY\hackgeny_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+Socket error: System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+
+  at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

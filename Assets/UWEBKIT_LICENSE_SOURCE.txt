@@ -1,0 +1,73 @@
+END USER LICENSE AGREEMENT
+
+uWebKit Source Code License for uWebKit 2.x
+
+* Source licenses are available for purchase, please contact sales@uwebkit.com
+
+--
+
+Acceptance and Legal Entity Representations
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE DOWNLOADING, INSTALLING OR USING THE SOFTWARE (AS DEFINED BELOW). THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (“AGREEMENT”) GOVERN USE OF THE SOFTWARE UNLESS YOU AND THUNDERBEAST GAMES, LLC HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOFTWARE.
+
+THUNDERBEAST GAMES, LLC ("TBG") is willing to license the Software to you only upon the condition that you accept all the terms contained in this Agreement. By downloading, installing or using the Software, you are agreeing that you understand this 
+Agreement and accept all of its terms. If you are accepting the terms of this Agreement on behalf of a Legal Entity (as defined below), you represent and warrant that you have the authority to bind that Legal Entity to the terms of this Agreement, and, in such event, “you” and “your” will refer to that Legal Entity. 
+
+1. Grant of License
+
+	a) Use Rights. Conditioned upon your compliance with the terms and conditions of this Agreement, TBG grants you a non-exclusive, non-transferable license to develop and distribute in object code format only, an unlimited number of games or applications using the Software.
+
+	b) Third Party Licenses. Some Software libraries are subject to third party or open source software licenses as delivered with the Software. For avoidance of doubt, you do not need to obtain any additional licenses to use the Software pursuant to this Agreement.
+
+2. Restrictions
+
+	a) If you are a Legal Entity, you acknowledge and agree that as an express condition to the license rights granted under Section 1(a), you are not permitted to combine or integrate in any manner any games, applications, files or other content that you develop with the uWebKit Source Code with any games, applications, files or other content developed by you (or by any third party) through the use of uWebKit Trial.
+
+	b) Except as expressly specified in this Agreement, you may not:
+
+		i. distribute, transfer, sublicense, lease, lend, rent or otherwise provide access to the Software to any third party;
+
+		ii. use the Software to develop a competing product. You acknowledge and agree that portions of the Software, including but not limited to the source code and the specific design and structure of individual modules or programs, are confidential and constitute or contain trade secrets of TBG and its licensors. Accordingly, you agree not to disassemble, decompile or reverse engineer the Software, in whole or in part, or permit or authorize a third party to do so, except to the extent such activities are expressly permitted by law notwithstanding this prohibition;
+
+		iii. use the Software for any illegal purpose; or
+
+		iv. distribute in source code format any product made using the Software.
+
+
+3. Ownership
+
+The Software is licensed, not sold. TBG retains ownership of the Software including all intellectual property rights therein. The Software is protected by copyright law and international treaties. TBG reserves all rights in the Software not expressly granted to you in this Agreement. You will not delete or in any manner alter any TBG or third-party copyright, trademark or other proprietary rights notices or markings appearing on the Software or in the Software (including the runtime portion thereof). 
+
+
+4. Term
+
+The license granted under this Agreement will automatically terminate, with or without notice from TBG, if you breach any term of this Agreement. Upon termination, you must at TBG’s option either promptly delete and destroy or return to TBG all copies of the Software in your possession or control. 
+
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. THUNDERBEAST GAMES, LLC AND ITS LICENSORS DISCLAIM ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, AND ANY WARRANTIES AND CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM THUNDERBEAST GAMES, LLC OR ELSEWHERE WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY STATED IN THIS AGREEMENT. 
+
+
+6. Limitation of Liability
+
+THUNDERBEAST GAMES, LLC AND ITS LICENSORS’ TOTAL LIABILITY TO YOU FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNTS PAID BY YOU FOR THE SOFTWARE. IN NO EVENT WILL THUNDERBEAST GAMES, LLC OR ITS LICENSORS BE LIABLE TO YOU FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, BUSINESS, PROFITS OR ABILITY TO EXECUTE) OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE EXECUTION OR PERFORMANCE OF THE SOFTWARE, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT THUNDERBEAST GAMES, LLC OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. 
+
+Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you. 
+
+
+7. Export Law
+
+You agree to comply fully with all export laws and regulations to ensure that neither the Software nor any technical data related thereto nor any direct product thereof are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. 
+
+
+8. General
+
+This Agreement will be governed by and construed in accordance with the laws of California, without regard to or application of conflict of laws rules or principles. The United Nations Convention on Contracts for the International Sale of Goods will not apply. Any dispute arising out of or relating to this Agreement shall be settled by arbitration in the state or federal courts located in Lane County, Oregon, USA. Notwithstanding the foregoing, you agree that THUNDERBEAST GAMES, LLC shall have the right to seek injunctive remedies (or an equivalent type of urgent legal relief) in any court of competent jurisdiction. You may not assign or transfer this Agreement or any rights granted hereunder, by operation of law or otherwise, without THUNDERBEAST GAMES, LLC’s prior written consent, and any attempt by you to do so, without such consent, will be void. Without limiting the generality of the foregoing, if you are an employee of a Legal Entity, you may not assign or transfer this Agreement or any rights granted hereunder to your employer without THUNDERBEAST GAMES, LLC’s prior written consent, and any attempt by you to do so, without such consent, will be void. Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise. All notices or approvals required or permitted under this Agreement will be in writing and delivered by confirmed facsimile transmission, by overnight delivery service, or by certified mail, and in each instance will be deemed given upon receipt. All notices or approvals will be sent to the addresses set forth in the applicable ordering document or invoice or to such other address as may be specified by either party to the other in accordance with this section. The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that or any other provision. Any waiver, modification or amendment of any provision of this Agreement will be effective only if in writing and signed by authorized representatives of both parties. If any provision of this Agreement is held to be unenforceable or invalid that provision will be enforced to the maximum extent possible and the other provisions will remain in full force and effect. This Agreement is the complete and exclusive understanding and agreement between the parties regarding its subject matter, and supersedes all proposals, understandings or communications between the parties, oral or written, regarding its subject matter, unless you and THUNDERBEAST GAMES, LLC have executed a separate agreement governing use of the Software. Any terms or conditions contained in your purchase order or other ordering document that are inconsistent with or in addition to the terms and conditions of this Agreement are hereby rejected by THUNDERBEAST GAMES, LLC and will be deemed null. 
+
+
+9. Definitions
+
+“Legal Entity” means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization. Legal Entity includes without limitation any government, non-profit, educational or academic institution.  
+“Licensee Content” means games, applications, software or other content that you develop through use of the Software.  
+“Software” means all 2.x versions and updates of uWebKit Source Code.

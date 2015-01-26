@@ -1,0 +1,11 @@
+
+Hello and welcome to the uWebKit 2.0!
+
+For some help getting started, please see: 
+
+https://github.com/uWebKit/uWebKit/wiki/Getting-Started-with-uWebKit-2.0
+
+Cheers,
+- Josh
+http://www.uWebKit.com
+
