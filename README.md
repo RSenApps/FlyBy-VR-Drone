@@ -1,5 +1,9 @@
 ![](flybylogo.png) ![](flybycockpit.png)
 
+Click for video: <a href="http://www.youtube.com/watch?feature=player_embedded&v=ofONkpCdjSU
+" target="_blank"><img src="http://img.youtube.com/vi/ofONkpCdjSU/0.jpg" 
+ width="240" height="180" border="10" /></a>
+ 
 A virtual cockpit for the AR Drone using Oculus head tracking and Leap Motion
 
 Built at Hacking Generation Y with Logan Taylor, Matthew Linker, and Andrew Liu
